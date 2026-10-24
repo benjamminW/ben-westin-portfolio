@@ -9,7 +9,7 @@ Almost everything you'll change is in `content.js`:
 
 - `featured`: the video at the top. Swap in your reel when it's on YouTube.
 - `projects`: one card per project. Keep `role` specific (what you shot, edited, colored, mixed).
-  A ready-to-fill Butterfly Award entry is commented out at the bottom of the list.
+  A blank project template is commented out at the bottom of the list.
 - `shorts`: vertical clips. YouTube IDs play on the page; Instagram links open in a new tab.
 
 Experience, About, and Contact text are in `index.html`. Update `assets/Ben-Westin-Resume.pdf`

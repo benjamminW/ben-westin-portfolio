@@ -56,17 +56,17 @@ window.PORTFOLIO = {
     },
 
     /*
-     * BUTTERFLY AWARD: add this once the video is published.
+     * ADD A PROJECT: copy this, fill it in, and remove the comment marks.
      *
      * {
-     *   id: "butterfly-award",
-     *   title: "Butterfly Award: Mary Jo Hare",
-     *   client: "Family Counseling Services of Northern Illinois",
+     *   id: "short-name",
+     *   title: "Project title",
+     *   client: "Client name",
      *   year: "2026",
-     *   type: "Nonprofit · Interview-driven tribute",
-     *   role: "Produced, interviewed, filmed, and edited",
-     *   description: "Honoree film for the Dancing With The Rockford Stars event, built from six on-camera interviews.",
-     *   videos: [{ title: "Butterfly Award", youtubeId: "YOUTUBE_ID" }],
+     *   type: "Nonprofit · Interview-driven",
+     *   role: "Produced, filmed, and edited",
+     *   description: "One or two sentences on the project.",
+     *   videos: [{ title: "Film title", youtubeId: "YOUTUBE_ID" }],
      * },
      */
   ],
